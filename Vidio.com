@@ -1,10 +1,10 @@
 #EXTM3U
 
 ####################### MNC GROUP ############22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",ANTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="VIDIO TV",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://live-production.secureswiftcontent.com/exp=1671572751~acl=/hls-p/ingest_6399_*/*~hmac=59b95fb312a3445f2d5c0e58e74192a5ca7553c6606c123337965fc0b2ddd263/hls-p/ingest_6399_720p/index.m3u8
+https://app-etslive-2.vidio.com/live/6399/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdmlnVVMwUnZBOENYc2IvckNzK1FtTnVDeVdWT1BpckxOVnJZZ1JzaWZucVdkem9QU2FSTmZSTThWM0oyRUsyMlkzcFZZQVZTR2kvUVdWZ1hPYUVuOG9CQjB1ZXRvSVlaejQzbE5uWmsrTmZjaWlERlJ1K3NzS3NSdmQrZFlLWHZxR0RHck1aMjJHejFUNjF0ejVkZlVMWElNcFJOTFM2cUUrVWhFT0lTemU4RzB1ckxFOWc2L3BTVUlRUHM1d2FxK1ptZXRoaUMxZnpGLzFUYk16OThBWXl3OFIvVklvQUt4SlA3MFd6d1BxUzFOUWpMTFg1eHBrUkpUajVCbE51L2YvQ0F1aEJBLzRQS2pQZGJaejlYOXJwb3F1cDVWTHNYTDkxZnFjUlVKL0FFallxVldTUW53Tzl3VWFkQ0g4N1dWTEg0Lzh5WFl5SngvaGxFREh5a1Zkd3Yyelk3bkl1THJzcU5tRFlFZVU2aGM2VVNSNS9ESGM0YUFjNWpNai9Bdzl4TWVWbDV6Ly9Nd0V6MzNpS3FDRWN5d3pKYjJ3T2R4MTlQc3cxZUdmYWNMSy9NR2F6ekh5cGVncE9CbHFpbXJTM0NnTDhwTzl6MlQyV3FWRmdUZDg2Y3NUQktud05xV01DVkNNWVBKdm5iZzQyQjRlazBjRmhoVFV0ZTMvK1grd2YxOENDMWF0OW5oaDN2M2ZqTHluNEZNT0JQL3p3MUZxZ2RFclFqbGRxY3hwMWxzYklxQ1EzZytxajlubDZGQ25hM1h1aXl1cUdYRjBpUW5HYWYvMjExUWFEZHBCdWlEZEtnckRPbHQ1ZzR3WEYzWDdEQjBDaFZxMWU5Tmg0SGFoUStoNmEyelh1eW1nd01BWHRPNDVOcks0NlgyNDVhN2JEWVBSQ2xJTUROcTA0RXk2d1ZuUjhOZGl4aVdDZXNxVkZ5dVdIb3BoQVlUR0Z4VHN2cVZkWTl4WFhXRkkzWjN2anZZZWZwaTVUNXdaQTdxaTBvVnRlcVp2OFBITHNVRHViZFhCR3gyMmxpblhvekFLQ1dCM2xVNE9WR1hCbllWalFPb0VQdXZtTFU9&trace_id=7d2ccfba3c5160109b0f46c00961bc8f/13271026367600942796
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="RYAN TV",GTV
 #EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
