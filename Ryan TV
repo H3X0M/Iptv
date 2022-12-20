@@ -1,0 +1,51 @@
+#EXTM3U8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",ANTV
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TV ONE
+http://210.210.155.35/session/73d2e288-6bb9-11eb-900b-c81f66f89318/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TV ONE SD
+http://202.80.222.174/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TV ONE BACKUP
+http://202.80.222.174/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TRANS 7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TRANS TV SD
+http://202.80.222.174/000001/2/ch14041511545447343123/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",TRANS TV HD
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w449685739_b628000_sleng.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",CNN SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",INDOSIAR
+http://202.80.222.174:80/000001/2/ch15051810235326945512/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",METRO TV Backup
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Zee Bioskop
+http://rr2.dens.tv/s/s32/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Thrill
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Cinema World
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",My Cinema
+http://45.126.83.51/session/e7aa37e0-b086-11ea-934d-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] PREMIUM" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Vlue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Vlue Ant Entertaiment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",Arena SPORT
+https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",CCX SPORT
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",LA LIGA
+https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",NBNC SPORT
+https://dl.dropbox.com/s/w3lst03ueo96mpi/beinss1.m3u8?dl=0
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",REDBULL HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1, group-title="[RYANTV] SPORT" tvg-logo="https://www.kindpng.com/picc/m/465-4659366_the-ryan-logo-lettering-ryan-llc-logo-png.png",USEE SPORT
+http://bit.ly/3cFX6Ls
